@@ -24,7 +24,7 @@ COST_PER_1K_OUTPUT_TOKENS = {
 
 OPENAI_MODEL = "gpt-4o"
 OPENAI_MINI_MODEL = "gpt-4o-mini"
-OPENAI_API_KEY = "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"
+OPENAI_API_KEY = ""
 OPENAI_BASE_URL = "https://openrouter.ai/api/v1"
 
 
